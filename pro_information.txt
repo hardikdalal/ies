@@ -1,0 +1,4 @@
+Less than or Near to 0::You are below the current level of Apptitude.
+Greater than 10::You are eligible for IT industry.
+Greater than 20::Fairly Good.
+Greater than 30::Excellent.
