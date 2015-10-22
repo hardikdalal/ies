@@ -1,0 +1,11 @@
+1.An Examiner will monitor your discipline during the test.
+2.The time allocated to you is 30 minutes.
+The examiner is responsible for keeping track of time.
+3.You will not be allowed to answer any question once the stipulated time is over.
+4.During the test, if you wish to skip the question, you may press 0 key.
+Please note that once you skip the question, you will not be allowed
+to review or return to that question again.
+5.You are required to enter numeric entries of the answer index.
+Any inappropriate entry of answer will cause waste of time
+and you will be returned to the same question again.
+6.During the test, if you wish to quit, press Esc key.
